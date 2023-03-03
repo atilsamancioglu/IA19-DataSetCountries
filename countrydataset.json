@@ -1,154 +1,246 @@
 [
   {
-    "name": "Algeria",
-    "capital": "Algiers",
-    "region": "Africa",
-    "currency": "DZD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dza.png",
-    "language": "Arabic"
+    "name": "1",
+    "sound": "https://karekodkuran.com/arabic/Sayfa000.mp3"
   },
   {
-    "name": "Andorra",
-    "capital": "Andorra Vella",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/and.png",
-    "language": "Catalan"
+    "name": "2",
+    "sound": "https://karekodkuran.com/arabic/Sayfa001.mp3"
   },
   {
-    "name": "Antartica",
-    "capital": "Antartica",
-    "region": "Polar",
-    "currency": "AUD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/ata.png",
-    "language": "English"
+    "name": "3",
+    "sound": "https://karekodkuran.com/arabic/Sayfa002.mp3"
   },
   {
-    "name": "Azerbaijan",
-    "capital": "Baku",
-    "region": "Asia",
-    "currency": "AZN",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/aze.png",
-    "language": "Azerbaijani"
+    "name": "4",
+    "sound": "https://karekodkuran.com/arabic/Sayfa003.mp3"
   },
   {
-    "name": "Belgium",
-    "capital": "Brussels",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/bel.png",
-    "language": "French"
+    "name": "5",
+    "sound": "https://karekodkuran.com/arabic/Sayfa004.mp3"
   },
   {
-    "name": "Brazil",
-    "capital": "Brasilia",
-    "region": "Americas",
-    "currency": "BRL",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/bra.png",
-    "language": "Portuguese"
+    "name": "6",
+    "sound": "https://karekodkuran.com/arabic/Sayfa005.mp3"
   },
   {
-    "name": "Cambodia",
-    "capital": "Phnom Penh",
-    "region": "Asia",
-    "currency": "KHR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/khm.png",
-    "language": "Khmer"
+    "name": "7",
+    "sound": "https://karekodkuran.com/arabic/Sayfa006.mp3"
   },
   {
-    "name": "Canada",
-    "capital": "Ottawa",
-    "region": "Americas",
-    "currency": "CAD",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/can.png",
-    "language": "English"
+    "name": "8",
+    "sound": "https://karekodkuran.com/arabic/Sayfa007.mp3"
   },
   {
-    "name": "Cuba",
-    "capital": "Havana",
-    "region": "Americas",
-    "currency": "CUC",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/cub.png",
-    "language": "Spanish"
+    "name": "9",
+    "sound": "https://karekodkuran.com/arabic/Sayfa008.mp3"
   },
   {
-    "name": "Denmark",
-    "capital": "Copenhagen",
-    "region": "Europe",
-    "currency": "DKK",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/dnk.png",
-    "language": "Danish"
+   "name": "10",
+    "sound": "https://karekodkuran.com/arabic/Sayfa009.mp3"
   },
   {
-    "name": "Estonia",
-    "capital": "Tallinn",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/est.png",
-    "language": "Estonian"
+    "name": "11",
+    "sound": "https://karekodkuran.com/arabic/Sayfa010.mp3"
   },
   {
-    "name": "Finland",
-    "capital": "Helsinki",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/fin.png",
-    "language": "Finnish"
+    "name": "12",
+    "sound": "https://karekodkuran.com/arabic/Sayfa011.mp3"
   },
   {
-    "name": "Greece",
-    "capital": "Athens",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/grc.png",
-    "language": "Greek"
+    "name": "13",
+    "sound": "https://karekodkuran.com/arabic/Sayfa012.mp3"
   },
   {
-    "name": "Haiti",
-    "capital": "Port-au-Prince",
-    "region": "Americas",
-    "currency": "HTG",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/hti.png",
-    "language": "Haitian"
+   "name": "14",
+    "sound": "https://karekodkuran.com/arabic/Sayfa013.mp3"
   },
   {
-    "name": "Indonesia",
-    "capital": "Jakarta",
-    "region": "Asia",
-    "currency": "IDR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/idn.png",
-    "language": "Indonesian"
+    "name": "15",
+    "sound": "https://karekodkuran.com/arabic/Sayfa014.mp3"
   },
   {
-    "name": "Ireland",
-    "capital": "Dublin",
-    "region": "Europe",
-    "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/irl.png",
-    "language": "English"
+    "name": "16",
+    "sound": "https://karekodkuran.com/arabic/Sayfa015.mp3"
   },
   {
-    "name": "Japan",
-    "capital": "Tokyo",
-    "region": "Asia",
-    "currency": "JPY",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/jpn.png",
-    "language": "Japanese"
+    "name": "17",
+    "sound": "https://karekodkuran.com/arabic/Sayfa016.mp3"
   },
   {
-    "name": "Russian Federation",
-    "capital": "Moscow",
-    "region": "Europe",
-    "currency": "RUB",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/rus.png",
-    "language": "Russian"
+    "name": "18",
+    "sound": "https://karekodkuran.com/arabic/Sayfa017.mp3"
   },
   {
-    "name": "Turkey",
-    "capital": "Ankara",
-    "region": "Asia",
-    "currency": "TRY",
-    "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
-    "language": "Turkish"
+    "name": "19",
+    "sound": "https://karekodkuran.com/arabic/Sayfa018.mp3"
+  },
+  {
+    "name": "20",
+    "sound": "https://karekodkuran.com/arabic/Sayfa019.mp3"
+  },
+  {
+    "name": "21",
+    "sound": "https://karekodkuran.com/arabic/Sayfa020.mp3"
+  },
+  {
+    "name": "22",
+    "sound": "https://karekodkuran.com/arabic/Sayfa021.mp3"
+  },
+  {
+    "name": "23",
+    "sound": "https://karekodkuran.com/arabic/Sayfa022.mp3"
+  },
+  {
+    "name": "24",
+    "sound": "https://karekodkuran.com/arabic/Sayfa023.mp3"
+  },
+  {
+    "name": "25",
+    "sound": "https://karekodkuran.com/arabic/Sayfa024.mp3"
+  },
+  {
+    "name": "26",
+    "sound": "https://karekodkuran.com/arabic/Sayfa025.mp3"
+  },
+  {
+    "name": "27",
+    "sound": "https://karekodkuran.com/arabic/Sayfa026.mp3"
+  },
+  {
+    "name": "28",
+    "sound": "https://karekodkuran.com/arabic/Sayfa027.mp3"
+  },
+  {
+    "name": "29",
+    "sound": "https://karekodkuran.com/arabic/Sayfa028.mp3"
+  },
+  {
+    "name": "30",
+    "sound": "https://karekodkuran.com/arabic/Sayfa029.mp3"
+  },
+  {
+    "name": "31",
+    "sound": "https://karekodkuran.com/arabic/Sayfa030.mp3"
+  },
+  {
+    "name": "32",
+    "sound": "https://karekodkuran.com/arabic/Sayfa031.mp3"
+  },
+  {
+    "name": "33",
+    "sound": "https://karekodkuran.com/arabic/Sayfa032.mp3"
+  },
+  {
+    "name": "34",
+    "sound": "https://karekodkuran.com/arabic/Sayfa033.mp3"
+  },
+  {
+    "name": "35",
+    "sound": "https://karekodkuran.com/arabic/Sayfa034.mp3"
+  },
+  {
+    "name": "36",
+    "sound": "https://karekodkuran.com/arabic/Sayfa035.mp3"
+  },
+  {
+    "name": "37",
+    "sound": "https://karekodkuran.com/arabic/Sayfa036.mp3"
+  },
+  {
+    "name": "38",
+    "sound": "https://karekodkuran.com/arabic/Sayfa037.mp3"
+  },
+  {
+    "name": "39",
+    "sound": "https://karekodkuran.com/arabic/Sayfa038.mp3"
+  },
+  {
+    "name": "40",
+    "sound": "https://karekodkuran.com/arabic/Sayfa039.mp3"
+  },
+  {
+    "name": "41",
+    "sound": "https://karekodkuran.com/arabic/Sayfa040.mp3"
+  },
+  {
+    "name": "42",
+    "sound": "https://karekodkuran.com/arabic/Sayfa041.mp3"
+  },
+  {
+    "name": "43",
+    "sound": "https://karekodkuran.com/arabic/Sayfa042.mp3"
+  },
+  {
+    "name": "44",
+    "sound": "https://karekodkuran.com/arabic/Sayfa043.mp3"
+  },
+  {
+    "name": "45",
+    "sound": "https://karekodkuran.com/arabic/Sayfa044.mp3"
+  },
+  {
+    "name": "46",
+    "sound": "https://karekodkuran.com/arabic/Sayfa045.mp3"
+  },
+  {
+    "name": "47",
+    "sound": "https://karekodkuran.com/arabic/Sayfa046.mp3"
+  },
+  {
+    "name": "48",
+    "sound": "https://karekodkuran.com/arabic/Sayfa047.mp3"
+  },
+  {
+    "name": "49",
+    "sound": "https://karekodkuran.com/arabic/Sayfa048.mp3"
+  },
+  {
+    "name": "50",
+    "sound": "https://karekodkuran.com/arabic/Sayfa049.mp3"
+  },
+  {
+    "name": "51",
+    "sound": "https://karekodkuran.com/arabic/Sayfa050.mp3"
+  },
+  {
+    "name": "52",
+    "sound": "https://karekodkuran.com/arabic/Sayfa051.mp3"
+  },
+  {
+    "name": "53",
+    "sound": "https://karekodkuran.com/arabic/Sayfa052.mp3"
+  },
+  {
+    "name": "54",
+    "sound": "https://karekodkuran.com/arabic/Sayfa053.mp3"
+  },
+  {
+    "name": "55",
+    "sound": "https://karekodkuran.com/arabic/Sayfa054.mp3"
+  },
+  {
+    "name": "56",
+    "sound": "https://karekodkuran.com/arabic/Sayfa055.mp3"
+  },
+  {
+    "name": "57",
+    "sound": "https://karekodkuran.com/arabic/Sayfa056.mp3"
+  },
+  {
+    "name": "58",
+    "sound": "https://karekodkuran.com/arabic/Sayfa057.mp3"
+  },
+  {
+    "name": "59",
+    "sound": "https://karekodkuran.com/arabic/Sayfa058.mp3"
+  },
+  {
+    "name": "60",
+    "sound": "https://karekodkuran.com/arabic/Sayfa059.mp3"
+  },
+  {
+    "name": "61",
+    "sound": "https://karekodkuran.com/arabic/Sayfa060.mp3"
   }
 ]
